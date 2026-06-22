@@ -6,16 +6,16 @@
         <description>Kitt direct-distribution updates.</description>
         <language>en</language>
         <item>
-            <title>Kitt 1.1.1</title>
-            <pubDate>Sun, 21 Jun 2026 14:15:03 +0000</pubDate>
-            <sparkle:version>12</sparkle:version>
-            <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+            <title>Kitt 1.1.2</title>
+            <pubDate>Mon, 22 Jun 2026 13:09:43 +0000</pubDate>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/VirtechSRL-ai/kitt-releases/releases/download/v1.1.1/Kitt-1.1.1-12.dmg"
-                length="113433326"
+                url="https://github.com/VirtechSRL-ai/kitt-releases/releases/download/v1.1.2/Kitt-1.1.2-13.dmg"
+                length="115242120"
                 type="application/octet-stream"
-                sparkle:edSignature="JPXHXPSsPp/Mu8QcUuH2ahXkWu1dM61UqxDiYuIp1ka8P1SpG6xH1EKXGZvV9dZOmu6Ki6P94baMbChsGOpICQ=="/>
+                sparkle:edSignature="MrekWKleUcrJT0VdIaLJW6HkD6NtzOEe9TqaHBxpSqOrU6fD5jqFvC2g2ufVZ1BrsvI3NxW/wmi8kSicfbWdDA=="/>
         </item>
     </channel>
 </rss>
